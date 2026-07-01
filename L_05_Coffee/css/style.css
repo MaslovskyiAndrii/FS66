@@ -40,7 +40,7 @@ a {
     overflow: hidden;
     background:
         linear-gradient(180deg, rgba(246, 238, 231, 0.08) 0%, rgba(246, 238, 231, 0.28) 100%),
-        url('../images/coffee-bgnd.jpeg') center 37% / cover no-repeat;
+        url('../Images/coffee-bgnd.jpeg') center 37% / cover no-repeat;
     border-bottom: 10px solid rgba(109, 170, 123, 0.35);
 }
 
